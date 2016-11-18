@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+第{dede:field.pagexx /}页
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dede:pagexx</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

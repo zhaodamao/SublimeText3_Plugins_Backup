@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+{dede:list row=' ' pagesize=' ' titlelen=' ' channelid=' '}
+
+<a href='[field:arcurl/]'>[field:title/]</a>
+
+{/dede:list}
+
+<!-- 分页导航 -->
+ <div class="dede_pages">
+<ul class="pagelist">
+             {dede:pagelist listitem="info,index,end,pre,next,pageno" listsize="5"/}
+</ul>
+</div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

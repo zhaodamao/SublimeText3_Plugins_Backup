@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{dede:likearticle row=' ' titlelen=' ' pagesize=' ' orderby=' '}
+<li><a href="[field:arcurl/]">[field:title/]</a></li>
+{/dede:likearticle}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dede:likearticle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

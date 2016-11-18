@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+{dede:arclist titlelen=' ' row=' ' typeid=' ' orderby='hot' channelid=' '  orderway='desc' addfields='demo1 '  keywords='[field:keywords]'  pagesize=' ' } 
+[field:typelink/]<a href="[field:arcurl/]" title="[field:title /]">
+	<img alt="[field:title /]" src="[field:litpic/]">
+		<span>[field:title /]</span></a>
+		<p> [field:pubdate function="MyDate('m-d',@me)"/]</p> 
+		<p> [field:info/]</p>
+		<p>  [field:description/] </p>
+	<a href="[field:typeurl/]"> [field:typename/] </a>
+
+	<p>[field:demo1 /]</p>
+
+{/dede:arclist} 
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dede:arclist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

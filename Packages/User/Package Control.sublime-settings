@@ -1,0 +1,59 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdadovSidebarEnhancements",
+		"Alignment",
+		"AngularJS Snippets",
+		"Animate.css Snippets",
+		"AutoFileName",
+		"Autoprefixer",
+		"Better Completion",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CSS3",
+		"CSScomb",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"FTPSync",
+		"GBK Support",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JsFormat",
+		"LiveReload",
+		"LiveStyle",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PHPIntel",
+		"PhpNinJaManual",
+		"Pug",
+		"ST3-LiveReload",
+		"sublime-sidebar-localization-zh",
+		"SublimeCodeIntel",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-html-tidy",
+		"Trimmer",
+		"View In Browser",
+		"WordPress",
+		"WordPress Completions"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Tag.git"
+	]
+}

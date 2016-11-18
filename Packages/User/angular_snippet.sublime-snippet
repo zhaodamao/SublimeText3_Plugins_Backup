@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html ng-app="myApp">
+  <head>
+    <meta charset="utf-8">
+    <script src="http://cdn.bootcss.com/angular.js/1.5.8/angular.min.js"></script>
+  </head>
+  <body>
+    <div>
+      <label>Name:</label>
+      <input type="text" ng-model="yourName" placeholder="Enter a name here">
+      <hr>
+      <h1>Hello {{yourName}}!</h1>
+    </div>
+
+    
+    <p>尝试修改以下表单。</p>
+    <div ng-controller="myCtrl">
+      名: <input type="text" ng-model="firstName"><br>
+      姓: <input type="text" ng-model="lastName"><br>
+      <br>
+      姓名: {{firstName + " " + lastName}}
+    </div>
+    <script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope) {
+    $scope.firstName= "John";
+    $scope.lastName= "Doe";
+    });
+    </script>
+  </body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>angularjs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
