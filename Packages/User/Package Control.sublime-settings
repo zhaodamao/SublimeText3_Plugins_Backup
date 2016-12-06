@@ -54,6 +54,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/titoBouzout/Tag.git"
+		"https://github.com/titoBouzout/Tag.git",
+		"https://github.com/sindresorhus/sublime-autoprefixer.git"
 	]
 }

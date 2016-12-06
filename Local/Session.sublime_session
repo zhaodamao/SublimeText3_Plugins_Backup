@@ -10,11 +10,11 @@
 		"/F/Nodejs/html"
 	],
 	"last_version": 3126,
-	"last_window_id": 33,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 636.0,
+		"new_window_height": 754.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -22,1097 +22,476 @@
 				"selected_items":
 				[
 					[
-						"table-",
-						"table-bordered \tBootstrap 3 Class"
-					],
-					[
-						"table",
-						"table-striped \tBootstrap 3 Class"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"clo",
-						"col-xs-12"
-					],
-					[
 						"text",
-						"text-center"
+						"text-align"
 					],
 					[
-						"margin",
-						"margin-top"
+						"pad",
+						"padding-left"
 					],
 					[
-						"se",
-						"section\t<section>"
-					],
-					[
-						"bs3-navbar",
-						"bs3-navbar:responsive\tbs3-navbar-responsive"
-					],
-					[
-						"nav",
-						"navbar"
-					],
-					[
-						"backgroud",
-						"background-color"
-					],
-					[
-						"展现如下",
-						"展现如下："
-					],
-					[
-						"柴宏俊",
-						"柴宏俊博客logo"
-					],
-					[
-						"bs3-list-group",
-						"bs3-list-group:linked\tbs3-list-group-linked"
-					],
-					[
-						"bs3-list",
-						"bs3-list-group:content\tbs3-list-group-content"
-					],
-					[
-						"bs3-lin",
-						"bs3-navbar:link\tbs3-navbar-link"
-					],
-					[
-						"bs3-alert",
-						"bs3-alert:info\tbs3-alert-info"
-					],
-					[
-						"bs3-al",
-						"bs3-alert:info\tbs3-alert-info"
-					],
-					[
-						"bs3-thum",
-						"bs3-thumbnail:content\tbs3-thumbnail-content"
-					],
-					[
-						"bs3-pager",
-						"bs3-pager:aligned\tbs3-pager-aligned"
-					],
-					[
-						"bs3-page",
-						"bs3-pager:aligned\tbs3-pager-aligned"
-					],
-					[
-						"bs3-pag",
-						"bs3-pagination\tbs3-pagination"
-					],
-					[
-						"bs3-input-g",
-						"bs3-input-group-addon\tbs3-input-group-addon"
-					],
-					[
-						"bs3-input-",
-						"bs3-input-group:text:btn\tbs3-input-group-text-btn"
-					],
-					[
-						"bs3-te",
-						"bs3-template:html5\tbs3-html5-template"
-					],
-					[
-						"bs3",
-						"bs3-toolbar\tbs3-button-toolbar"
-					],
-					[
-						"bs3-",
-						"bs3-group\tbs3-button-group"
-					],
-					[
-						"btn-gr",
-						"bs3-input-group-btn\tbs3-input-group-btn"
-					],
-					[
-						"bs3-narv",
-						"bs3-navbar:responsive\tbs3-navbar-responsive"
-					],
-					[
-						"bs3-n",
-						"bs3-navbar:fixed-top\tbs3-navbar-fixed-top"
-					],
-					[
-						"tab",
-						"table-responsive \tBootstrap 3 Class"
-					],
-					[
-						"bs3-ta",
-						"bs3-table\tbs3-table"
-					],
-					[
-						"bs3-nav",
-						"bs3-navbar:fixed-top\tbs3-navbar-fixed-top"
-					],
-					[
-						"hea",
-						"header"
-					],
-					[
-						"replace",
-						"replace( searchValue: string, replaceValue: string ): string\tString"
-					],
-					[
-						"for",
-						"for()"
-					],
-					[
-						"conso",
-						"console.log()"
-					],
-					[
-						"script",
-						"script\tTag"
-					],
-					[
-						"scr",
-						"script\tTag"
-					],
-					[
-						"list",
-						"list-inline \tBootstrap 3 Class"
-					],
-					[
-						"bs3-bav",
-						"bs3-navbar:responsive\tbs3-navbar-responsive"
-					],
-					[
-						"Cha",
-						"Chaihongjun"
-					],
-					[
-						"tran",
-						"transform"
-					],
-					[
-						"baco",
-						"background-color"
-					],
-					[
-						"out",
-						"outset"
+						"glyphicon-ch",
+						"glyphicon-chevron-left \tBootstrap 3 Class"
 					],
 					[
 						"marin",
-						"margin-bottom"
-					],
-					[
-						"btnd",
-						"btn-default \tBootstrap 3 Class"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"ou",
-						"outset"
+						"margin"
 					],
 					[
 						"back",
 						"background-color"
 					],
 					[
-						"bottom",
-						"border-bottom"
+						"margin",
+						"margin-left"
 					],
 					[
-						"$inter",
-						"verbose_$interval\tAngularJS"
-					],
-					[
-						"$tim",
-						"verbose_$timeout\tAngularJS"
-					],
-					[
-						"Sub",
-						"SublimeLinter-html-tidy"
-					],
-					[
-						"Su",
-						"SublimeLinter-html-tidy"
-					],
-					[
-						"angu",
-						"angularjs"
-					],
-					[
-						"ng",
-						"ng-bind\tAngularJS"
-					],
-					[
-						"opt",
-						"opt_html/"
-					],
-					[
-						"ht",
-						"html5\tSimple HTML5 Boilerplate"
-					],
-					[
-						"p",
+						"padd",
 						"padding-left"
 					],
 					[
-						"op",
-						"opacity"
+						"fnt",
+						"font"
 					],
 					[
-						"box",
-						"box-shadow"
+						"tet",
+						"text-align"
 					],
 					[
-						"tr",
-						"transition"
+						"fle",
+						"flex-wrap"
 					],
 					[
-						"backgourn",
+						"marg",
+						"margin-top"
+					],
+					[
+						"bea",
+						"bear_head.jpg\tw:158 h:148"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"sapce",
+						"space-around"
+					],
+					[
+						"fe",
+						"fellow.jpg\tw:128 h:100"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"spce",
+						"space-around"
+					],
+					[
+						"t",
+						"transform"
+					],
+					[
+						"backgo",
 						"background-color"
-					],
-					[
-						"col-lo",
-						"col-lg-offset-1 \tBootstrap 3 Class"
-					],
-					[
-						"img",
-						"img-responsive \tBootstrap 3 Class"
-					],
-					[
-						"mmexport1459773908859",
-						"mmexport1459773908859.jpg\tw:235 h:234"
-					],
-					[
-						"co",
-						"container \tBootstrap 3 Class"
-					],
-					[
-						"style",
-						"style\t<style>"
-					],
-					[
-						"navbar-f",
-						"navbar-fixed-top \tBootstrap 3 Class"
-					],
-					[
-						"b",
-						"bootstrap\tbootstrap_snippet"
-					],
-					[
-						"the_p",
-						"the_permalink\tWP Function"
-					],
-					[
-						"bs3-c",
-						"bs3-container\tbs3-container"
-					],
-					[
-						"wp_",
-						"wp_list_bookmarks"
-					],
-					[
-						"l",
-						"lorem\tLorem ipsum"
-					],
-					[
-						"lo",
-						"laboris"
-					],
-					[
-						"lor",
-						"labore"
-					],
-					[
-						"sty",
-						"style\t<style>"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"a",
-						"a\t<a>"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"btn",
-						"btn-group \tBootstrap 3 Class"
-					],
-					[
-						"blc",
-						"blockquote\tTag"
-					],
-					[
-						"so",
-						"solid"
-					],
-					[
-						"backou",
-						"background-color"
-					],
-					[
-						"col",
-						"col-xs-12"
 					],
 					[
 						"backg",
 						"background-color"
 					],
 					[
-						"register",
-						"register_sidebar\tregister_sidebar All Options"
+						"clo",
+						"color"
 					],
 					[
-						"regsi",
-						"register_sidebar"
+						"background",
+						"background-size"
 					],
 					[
-						"dynamic",
-						"dynamic_sidebar\tWP Action Name"
+						"no",
+						"no-repeat"
 					],
 					[
-						"dynam",
-						"dynamic_sidebar\tWP Function"
+						"chev",
+						"glyphicon-chevron-left \tBootstrap 3 Class"
 					],
 					[
-						"reg",
-						"register_nav_menus"
+						"font",
+						"font-size"
 					],
 					[
-						"register_sidebars",
-						"register_sidebars\tWP Function"
+						"min",
+						"min-width"
 					],
 					[
-						"is_home",
-						"is_home\tWP Function"
+						"min-",
+						"min-width"
 					],
 					[
-						"e",
-						"echo\techo \"…\""
+						"ce",
+						"cellpadding\tAttr"
 					],
 					[
-						"print",
-						"printf('%1$s"
+						"bl",
+						"block"
 					],
 					[
-						"single_cat_title",
-						"single_cat_title\tWP Function"
+						"border-",
+						"border-bottom"
 					],
 					[
-						"ti",
-						"title\t<title>"
+						"word",
+						"word-spacing"
 					],
 					[
-						"get_the",
-						"get_the_excerpt"
+						"fa-ch",
+						"fa-chevron-left"
 					],
 					[
-						"query",
-						"query_posts"
+						"space",
+						"space-around"
 					],
 					[
-						"ta",
-						"table"
-					],
-					[
-						"post",
-						"$post_num〔variable〕"
-					],
-					[
-						"arra",
-						"array"
-					],
-					[
-						"array",
-						"array〔function〕"
-					],
-					[
-						"the",
-						"the_permalink"
-					],
-					[
-						"get_exce",
-						"get_the_excerpt\tWP Function"
-					],
-					[
-						"cat_name",
-						"get_cat_name\tWP Function"
-					],
-					[
-						"the_time",
-						"the_time\tWP Function"
-					],
-					[
-						"the_title",
-						"the_title\tWP Function"
-					],
-					[
-						"get_head",
-						"get_header\tWP Function"
-					],
-					[
-						"register_nav",
-						"register_nav_menus"
-					],
-					[
-						"fun",
-						"function_exists〔function〕"
-					],
-					[
-						"get_hea",
-						"get_header"
-					],
-					[
-						"make",
-						"makehtml_homepage.php"
-					],
-					[
-						"makehtml",
-						"makehtml_all.php"
-					],
-					[
-						"360",
-						"360问答"
-					],
-					[
-						"dynamic_s",
-						"dynamic_sidebar\tWP Action Name"
-					],
-					[
-						"dynamic_sid",
-						"dynamic_sidebar"
-					],
-					[
-						"dyma",
-						"dynamic_sidebar\tWP Action Name"
-					],
-					[
-						"type",
-						"typeid='6"
-					],
-					[
-						"栏目",
-						"栏目二"
-					],
-					[
-						"the_tuit",
-						"the_title\tWP Function"
-					],
-					[
-						"the_exce",
-						"the_excerpt"
-					],
-					[
-						"the_C",
-						"the_content"
-					],
-					[
-						"the_au",
-						"the_author"
-					],
-					[
-						"the_ca",
-						"the_category\tWP Function"
-					],
-					[
-						"previous_posts",
-						"previous_posts_link"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "ssmd",
-				"selected_items":
-				[
-					[
-						"ssmd",
-						"Set Syntax: Markdown"
-					],
-					[
-						"sshtml",
-						"Set Syntax: HTML"
-					],
-					[
-						"ip",
-						"Package Control: Install Package"
-					],
-					[
-						"lp",
-						"Package Control: List Packages"
-					],
-					[
-						"rp",
-						"Package Control: Remove Package"
-					],
-					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"upgrad",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"ssrm",
-						"Set Syntax: Markdown"
-					],
-					[
-						"ssphp",
-						"Set Syntax: PHP"
-					],
-					[
-						"ss",
-						"Set Syntax: Pug"
-					],
-					[
-						"a",
-						"Autoprefix CSS"
-					],
-					[
-						"Snippet: html",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"Snippet: h5",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"Snippet: boo",
-						"Snippet: bootstrap_snippet"
-					],
-					[
-						"Snippet: ",
-						"Snippet: #!/usr/bin/env"
-					],
-					[
-						"ssshell",
-						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"up",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"ar",
-						"Package Control: Add Repository"
-					],
-					[
-						"rr",
-						"Package Control: Remove Repository"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
-						"LiveReload: Enable plugins",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"addr",
-						"Package Control: Add Repository"
-					],
-					[
-						"ssph",
-						"Set Syntax: PHP"
-					],
-					[
-						"ssba",
-						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"ssp",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"ssMD",
-						"Set Syntax: Markdown"
-					],
-					[
-						"ssjson",
-						"Set Syntax: JSON"
-					],
-					[
-						"sstxt",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"ssjo",
-						"Set Syntax: JSON"
-					]
-				],
-				"width": 528.0
-			},
-			"console":
-			{
-				"height": 268.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/E/Repositories/markdown/.git/config",
-				"/E/Repositories/markdown/README.md",
-				"/E/Repositories/Company/.git/config",
-				"/E/Repositories/seo_chains/.git/config",
-				"/E/Repositories/markdown/Markdown常用基本语法.md",
-				"/E/Repositories/seo_chains/README.md",
-				"/E/Repositories/seo_chains/seo_chains.md",
-				"/E/Repositories/Company/README.md",
-				"/E/Repositories/Company/红洋坊时尚美容瘦身连锁机构.md",
-				"/E/Repositories/Company/红妆时尚美业连锁机构地址电话.md",
-				"/E/Repositories/Company/其他.md",
-				"/E/Practice/demo/triangle_demo/index.html",
-				"/E/Practice/demo/triangle/index.html",
-				"/E/Practice/demo/triangle/css/responsive.css.bak",
-				"/E/Practice/demo/triangle/css/main.css",
-				"/E/Practice/demo/triangle/css/58dea4fdc32f4f148e3b01c653ce54f4.css",
-				"/C/Users/chj/Downloads/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js",
-				"/F/Nodejs/package.json",
-				"/E/Practice/demo/triangle1.1/index.html",
-				"/E/Repositories/Company/readme.md",
-				"/F/Nodejs/bootstrap/index.html",
-				"/C/Users/chj/Desktop/tmall.md",
-				"/C/Users/chj/Desktop/Markdown常用基本语法.md",
-				"/C/Users/chj/Documents/index.html",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/bootstrap_snippet.sublime-snippet",
-				"/C/Users/chj/Desktop/ceshi.html",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/usage.md",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/TOC.md",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/misc.md",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/js.md",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/html.md",
-				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/extend.md",
-				"/F/Nodejs/demo.html",
-				"/F/Nodejs/demo.css",
-				"/C/Users/chj/Downloads/仿站小工具/www.flqin.com/index.html",
-				"/C/Users/chj/Desktop/形象画册/ceshi.html",
-				"/C/Users/chj/Desktop/miptihuan/templets/mip/aliyun.html",
-				"/C/Users/chj/Desktop/miptihuan/templets/mip/list_article.htm",
-				"/C/Users/chj/Desktop/运营事物集团总部对接人清单.html",
-				"/C/Users/chj/Desktop/contact.html",
-				"/C/Users/chj/Desktop/运营事物集团总部对接人清单 (1).htm.dump",
-				"/C/Users/chj/Desktop/运营事物集团总部对接人清单 (1).htm",
-				"/C/Users/chj/Desktop/cc.html",
-				"/C/Users/chj/Desktop/demo.js",
-				"/C/Users/chj/Desktop/new.html",
-				"/C/Users/chj/Desktop/demo.css",
-				"/C/Users/chj/Desktop/demo.html",
-				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/angular_snippet.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/angularjs_snippet.sublime-snippet",
-				"/C/Users/chj/Downloads/editorconfig",
-				"/C/Program Files/Sublime Text 3/Data/README.md",
-				"/C/Users/chj/Downloads/11m.php",
-				"/C/Users/chj/Desktop/a.html",
-				"/C/Users/chj/Desktop/c.pug",
-				"/F/Nodejs/Gruntfile.js",
-				"/F/Nodejs/sftp-config.json",
-				"/C/Program Files/Sublime Text 3/Data/sftp/yanzhi",
-				"/F/Nodejs/html/demo.pug",
-				"/F/Nodejs/html/test.html",
-				"/F/Nodejs/html/demo.tpl",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/link_amimate.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/h5_snippet.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pagexx.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_meta.tags.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_keywords.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_index.key_desc.sublime-snippet",
-				"/E/Repositories/WordPress/LICENSE",
-				"/C/Program Files/Sublime Text 3/Data/.git/description",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_include.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/link_normalize.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/script_jquery.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_content.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_field.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_likearticle.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_arclist.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_desc.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_maketime.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_basehost.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_typeurl.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_typename.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_next.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pre.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_writer.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_source.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_body.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pubdate.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_list.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_title.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_seotitle.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_type.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_position.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_flink.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_webname.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package/Snippets/html (begin tag).sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package/Snippets/html.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/sidebar.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/single.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/category.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/index.php",
-				"/C/Users/chj/Downloads/syntaxhighlighter_3.0.83/syntaxhighlighter_3.0.83/styles/shCore.css",
-				"/E/Repositories/WordPress/只在首页显示友情链接.php",
-				"/E/Repositories/WordPress/只在首页显示友情链接.css",
-				"/E/Repositories/WordPress/demo/footer.php",
-				"/E/Repositories/WordPress/demo/index.php",
-				"/E/Repositories/WordPress/demo/header.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/header.php",
-				"/E/Repositories/WordPress/README.md",
-				"/E/Repositories/分页功能.php",
-				"/E/Repositories/WordPress/分页功能.css",
-				"/E/Repositories/WordPress/小工具注册.php",
-				"/E/Repositories/WordPress/默认登录路径修改.php",
-				"/E/Repositories/WordPress/禁用前台的管理员工具条.php",
-				"/E/Repositories/WordPress/打开主题背景功能.php",
-				"/E/Repositories/WordPress/打开链接功能.php",
-				"/E/Repositories/WordPress/图片自动添加ALT属性.php",
-				"/E/Repositories/WordPress/文章摘要.php",
-				"/E/Repositories/WordPress/面包屑导航.php",
-				"/E/Repositories/WordPress/去除固定链接中的category.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/functions.php",
-				"/E/Repositories/WordPress/阅读数代码.php",
-				"/E/Repositories/WordPress/导航菜单代码.php",
-				"/E/Repositories/WordPress/头部冗余代码优化.php",
-				"/C/Program Files/Sublime Text 3/Data/.gitignore",
-				"/E/xampp/apache/conf/extra/httpd-xampp.conf",
-				"/C/Users/chj/Desktop/run.html",
-				"/C/Users/chj/Desktop/1.css"
-			],
-			"find":
-			{
-				"height": 39.0
-			},
-			"find_in_files":
-			{
-				"height": 90.0,
-				"where_history":
-				[
-					"<project>"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"}\t",
-					"row",
-					"}\n",
-					"-->\n",
-					"/css/",
-					"/js/",
-					"http://demo.themeum.com/html/triangle/js/",
-					"http://demo.themeum.com/html/triangle/css",
-					"header",
-					"css/",
-					"images/",
-					"js/",
-					"images/",
-					"3.3.0",
-					"data-src",
-					"study",
-					"3.3.0",
-					"value",
-					"dedeseo_http_send",
-					"https://s3-us-west-2.amazonaws.com/s.cdpn.io/877458/profile/profile-80_1.jpg",
-					"mmexport1459773908859.jpg",
-					"tumblr",
-					"row",
-					"sec",
-					"spab",
-					"pug",
-					"html_template",
-					" <i class=\"fa fa-fire fa-3x\"></i>",
-					"imagemin",
-					"“",
-					"”",
-					"“",
-					";",
-					"”",
-					"“",
-					"class='pages'",
-					"class='pagination'",
-					"pagination",
-					"#crumbs",
-					"crumbs",
-					"!",
-					"change_redhat_routes",
-					"change_redhat_routes() ",
-					"sidebarBox",
-					"wp_title",
-					"admin",
-					"m",
-					"../images",
-					"logo",
-					"temp",
-					"templets",
-					")",
-					"(",
-					",",
-					";",
-					"’",
-					"‘",
-					"tabBar",
-					"getBanner",
-					"detmp1",
-					"_10_MakeAllOK",
-					"/images",
-					"brush:",
-					"ccstock",
-					"blog.ccstock.cn",
-					")",
-					"(",
-					";",
-					"’",
-					"‘",
-					", ",
-					";",
-					"”",
-					"“",
-					"’",
-					"‘",
-					"w33 z",
-					"css",
-					"nav",
-					"slug",
-					"sllug",
-					"clean",
-					"htmlmin",
-					"cssmin",
-					"htmlmin",
-					"uglify",
-					"cssmin",
-					"imagemin",
-					"links-wrap",
-					"link",
-					"concat",
-					"conntact",
-					"cssmin",
-					"concat",
-					"cssmin",
-					"concat",
-					"|",
-					"html",
-					"fetch",
-					"replace(/px[^;{}]?}/g,'px;\\n}')",
-					"return str.replace(/px[^;{}]?}/g,'px;\\n}');",
-					"return str.replace(/px[^;{}]?}/g,'px;\\n}');\n \t\t}",
-					"mincss",
-					"#xiangSlide .num b",
-					"#xiangSlide",
-					".footer",
-					"html",
-					"htmlmin",
-					"imagemin",
-					"cssmin",
-					"single_file",
-					"imagemin",
-					"cssmin",
-					"url",
-					"length",
-					"uri",
-					"css_img_2_data_uri",
-					"cssmin",
-					"options",
-					"cssmin",
-					"single_file",
-					"imagemin",
-					"cssmin",
-					"autoprefixer",
-					"jshint",
-					"par_pagenavi",
-					"img",
-					"src=\"images"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"css/",
-					"js/",
-					"/js/",
-					"/css",
-					"http://demo.themeum.com/html/triangle/1.1/css/",
-					"http://demo.themeum.com/html/triangle/1.1/images/",
-					"http://demo.themeum.com/html/triangle/1.1/js/",
-					"http://demo.themeum.com/html/triangle/js/",
-					"http://demo.themeum.com/html/triangle/images/",
-					"3.3.7",
-					"src",
-					"3.3.7",
-					"http://avatar.csdn.net/D/5/C/1_luxiaoleics.jpg",
-					"https://s3-us-west-2.amazonaws.com/s.cdpn.io/877458/profile/profile-80_1.jpg",
-					"mmexport1459773908859",
-					"span",
-					"<span class=\"glyphicon glyhicon-asterisk\">",
-					"\"",
-					";",
-					"\"",
-					"class='pagination'",
-					"class='pages'",
-					".crumbs",
-					"images",
-					")",
-					"(",
-					",",
-					";",
-					"'",
-					"http://m.yueyimei.com/images",
-					"http://www.yueyimei.com/images",
-					"prettyprint lang-",
-					")",
-					"(",
-					";",
-					"'",
-					",",
-					";",
-					"\"",
-					"'",
-					"\",\"",
-					"images",
-					"src=\"../images",
-					"../css",
-					"../css/",
-					"css"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 31.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 113.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.markdown":
-			{
-				"height": 148.0
-			},
-			"output.sftp":
-			{
-				"height": 142.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 72.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 178.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1916.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"margin",
+						"mag",
 						"margin-left"
 					],
 					[
+						"cell",
+						"cellspacing\tAttr"
+					],
+					[
+						"borde",
+						"border-left"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"flexs",
+						"flex-start"
+					],
+					[
+						"labl",
+						"label\tTag"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inln",
+						"inline-block"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"border-top-",
+						"border-top-left-radius"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"alig",
+						"align-items"
+					],
+					[
+						"model",
+						"model-three"
+					],
+					[
+						"magi",
+						"margin-bottom"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"fles",
+						"flex-start"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"la",
+						"label\tTag"
+					],
+					[
+						"label",
+						"label\t<label>"
+					],
+					[
+						"aci",
+						"active"
+					],
+					[
+						"b",
+						"border"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"inputt",
+						"inputt\tinput - text"
+					],
+					[
 						"padding",
-						"padding-right"
+						"padding"
+					],
+					[
+						"meta",
+						"meta\tTag"
+					],
+					[
+						"meat",
+						"meta\tTag"
+					],
+					[
+						"input",
+						"inputh\tinput - hidden"
+					],
+					[
+						"fl",
+						"flex"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"bakc",
+						"background-size"
+					],
+					[
+						"se",
+						"section\t<section>"
+					],
+					[
+						"tetx",
+						"text-align"
+					],
+					[
+						"left",
+						"left"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"spa",
+						"space-between"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"big",
+						"big-logo.png\tw:100 h:100"
+					],
+					[
+						"imga",
+						"images/"
+					],
+					[
+						"bos",
+						"box-sizing"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"letf",
+						"left"
+					],
+					[
+						"it",
+						"align-items"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"background-c",
+						"background-clip"
+					],
+					[
+						"app",
+						"-webkit-appearance"
+					],
+					[
+						"fie",
+						"fixed"
 					],
 					[
 						"a",
-						"absolute"
+						"auto"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"flo",
+						"flower.jpg\tw:42 h:42"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"co",
+						"cover"
+					],
+					[
+						"image",
+						"images/"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"head",
+						"header\t<header>"
+					],
+					[
+						"h5",
+						"h5\th5_snippet"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"bo",
+						"bold"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"bott",
+						"bottom"
+					],
+					[
+						"scr",
+						"script\t<script>"
+					],
+					[
+						"cha",
+						"charset\tAttr"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"rao",
+						"rotate()"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"mari",
+						"margin-right"
+					],
+					[
+						"wih",
+						"width"
 					],
 					[
 						"bao",
 						"background-color"
-					],
-					[
-						"marin",
-						"margin"
 					],
 					[
 						"lin",
@@ -1127,36 +506,16 @@
 						"thead"
 					],
 					[
-						"font",
-						"font-size"
-					],
-					[
 						"small",
 						"small \tBootstrap 3 Class"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"c",
-						"class\tAttr"
 					],
 					[
 						"div",
 						"div\t<div>"
 					],
 					[
-						"mari",
-						"margin-right"
-					],
-					[
 						"r",
 						"right \tBootstrap 3 Class"
-					],
-					[
-						"text",
-						"textarea\t<textarea>"
 					],
 					[
 						"lable",
@@ -1171,519 +530,64 @@
 						"placeholder\tAttr"
 					],
 					[
-						"head",
-						"head"
-					],
-					[
 						"de",
 						"details"
-					],
-					[
-						"这里有一",
-						"这里有一个链接链接到http"
-					],
-					[
-						"border-r",
-						"border-radius"
-					],
-					[
-						"btn-d",
-						"btn-default \tBootstrap 3 Class"
-					],
-					[
-						"btn-",
-						"btn-link \tBootstrap 3 Class"
-					],
-					[
-						"btn",
-						"btn-lg \tBootstrap 3 Class"
-					],
-					[
-						"bs3-btn",
-						"bs3-button:default\tbs3-button-default"
-					],
-					[
-						"con",
-						"container"
-					],
-					[
-						"ar",
-						"article\t<article>"
-					],
-					[
-						"list",
-						"list-style"
-					],
-					[
-						"bs3-b",
-						"bs3-button\tbs3-button"
-					],
-					[
-						"pull",
-						"pull-left \tBootstrap 3 Class"
-					],
-					[
-						"img",
-						"img-rounded \tBootstrap 3 Class"
-					],
-					[
-						"text-a",
-						"text-align"
-					],
-					[
-						"no",
-						"no-repeat"
-					],
-					[
-						"pul",
-						"pull-left \tBootstrap 3 Class"
-					],
-					[
-						"background",
-						"background-image"
-					],
-					[
-						"block",
-						"center-block \tBootstrap 3 Class"
-					],
-					[
-						"pu",
-						"pull-left \tBootstrap 3 Class"
-					],
-					[
-						"bs3-th",
-						"bs3-thumbnail:content\tbs3-thumbnail-content"
-					],
-					[
-						"bs3-f",
-						"bs3-navbar:form\tbs3-navbar-form"
-					],
-					[
-						"nav",
-						"navbar-right \tBootstrap 3 Class"
-					],
-					[
-						"bs3-navbar",
-						"bs3-navbar:inverse\tbs3-navbar-inverse"
-					],
-					[
-						"bs3-thu",
-						"bs3-thumbnail\tbs3-thumbnail"
-					],
-					[
-						"table-r",
-						"table-bordered \tBootstrap 3 Class"
-					],
-					[
-						"bs3-tab",
-						"bs3-table\tbs3-table"
-					],
-					[
-						"blo",
-						"center-block \tBootstrap 3 Class"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"bl",
-						"block"
-					],
-					[
-						"ull",
-						"pull-right \tBootstrap 3 Class"
-					],
-					[
-						"bo",
-						"border"
-					],
-					[
-						"table-",
-						"table-bordered \tBootstrap 3 Class"
-					],
-					[
-						"table",
-						"table-striped \tBootstrap 3 Class"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"clo",
-						"col-xs-12"
-					],
-					[
-						"se",
-						"section\t<section>"
-					],
-					[
-						"backgroud",
-						"background-color"
-					],
-					[
-						"展现如下",
-						"展现如下："
-					],
-					[
-						"柴宏俊",
-						"柴宏俊博客logo"
-					],
-					[
-						"bs3-list-group",
-						"bs3-list-group:linked\tbs3-list-group-linked"
-					],
-					[
-						"bs3-list",
-						"bs3-list-group:content\tbs3-list-group-content"
-					],
-					[
-						"bs3-lin",
-						"bs3-navbar:link\tbs3-navbar-link"
-					],
-					[
-						"bs3-alert",
-						"bs3-alert:info\tbs3-alert-info"
-					],
-					[
-						"bs3-al",
-						"bs3-alert:info\tbs3-alert-info"
-					],
-					[
-						"bs3-thum",
-						"bs3-thumbnail:content\tbs3-thumbnail-content"
-					],
-					[
-						"bs3-pager",
-						"bs3-pager:aligned\tbs3-pager-aligned"
-					],
-					[
-						"bs3-page",
-						"bs3-pager:aligned\tbs3-pager-aligned"
-					],
-					[
-						"bs3-pag",
-						"bs3-pagination\tbs3-pagination"
-					],
-					[
-						"bs3-input-g",
-						"bs3-input-group-addon\tbs3-input-group-addon"
-					],
-					[
-						"bs3-input-",
-						"bs3-input-group:text:btn\tbs3-input-group-text-btn"
-					],
-					[
-						"bs3-te",
-						"bs3-template:html5\tbs3-html5-template"
-					],
-					[
-						"bs3-",
-						"bs3-group\tbs3-button-group"
-					],
-					[
-						"btn-gr",
-						"bs3-input-group-btn\tbs3-input-group-btn"
-					],
-					[
-						"bs3-narv",
-						"bs3-navbar:responsive\tbs3-navbar-responsive"
-					],
-					[
-						"bs3-n",
-						"bs3-navbar:fixed-top\tbs3-navbar-fixed-top"
-					],
-					[
-						"tab",
-						"table-responsive \tBootstrap 3 Class"
-					],
-					[
-						"bs3-ta",
-						"bs3-table\tbs3-table"
-					],
-					[
-						"bs3-nav",
-						"bs3-navbar:fixed-top\tbs3-navbar-fixed-top"
-					],
-					[
-						"hea",
-						"header"
-					],
-					[
-						"replace",
-						"replace( searchValue: string, replaceValue: string ): string\tString"
-					],
-					[
-						"for",
-						"for()"
-					],
-					[
-						"conso",
-						"console.log()"
-					],
-					[
-						"script",
-						"script\tTag"
-					],
-					[
-						"scr",
-						"script\tTag"
-					],
-					[
-						"bs3-bav",
-						"bs3-navbar:responsive\tbs3-navbar-responsive"
-					],
-					[
-						"Cha",
-						"Chaihongjun"
-					],
-					[
-						"tran",
-						"transform"
-					],
-					[
-						"baco",
-						"background-color"
-					],
-					[
-						"out",
-						"outset"
-					],
-					[
-						"btnd",
-						"btn-default \tBootstrap 3 Class"
-					],
-					[
-						"ou",
-						"outset"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"bottom",
-						"border-bottom"
-					],
-					[
-						"$inter",
-						"verbose_$interval\tAngularJS"
-					],
-					[
-						"$tim",
-						"verbose_$timeout\tAngularJS"
-					],
-					[
-						"Sub",
-						"SublimeLinter-html-tidy"
-					],
-					[
-						"Su",
-						"SublimeLinter-html-tidy"
-					],
-					[
-						"angu",
-						"angularjs"
-					],
-					[
-						"ng",
-						"ng-bind\tAngularJS"
-					],
-					[
-						"opt",
-						"opt_html/"
-					],
-					[
-						"ht",
-						"html5\tSimple HTML5 Boilerplate"
-					],
-					[
-						"op",
-						"opacity"
-					],
-					[
-						"box",
-						"box-shadow"
-					],
-					[
-						"tr",
-						"transition"
-					],
-					[
-						"backgourn",
-						"background-color"
-					],
-					[
-						"col-lo",
-						"col-lg-offset-1 \tBootstrap 3 Class"
-					],
-					[
-						"mmexport1459773908859",
-						"mmexport1459773908859.jpg\tw:235 h:234"
-					],
-					[
-						"co",
-						"container \tBootstrap 3 Class"
-					],
-					[
-						"style",
-						"style\t<style>"
-					],
-					[
-						"navbar-f",
-						"navbar-fixed-top \tBootstrap 3 Class"
-					],
-					[
-						"b",
-						"bootstrap\tbootstrap_snippet"
-					],
-					[
-						"the_p",
-						"the_permalink\tWP Function"
-					],
-					[
-						"bs3-c",
-						"bs3-container\tbs3-container"
-					],
-					[
-						"wp_",
-						"wp_list_bookmarks"
-					],
-					[
-						"l",
-						"lorem\tLorem ipsum"
-					],
-					[
-						"lo",
-						"laboris"
-					],
-					[
-						"lor",
-						"labore"
-					],
-					[
-						"sty",
-						"style\t<style>"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"blc",
-						"blockquote\tTag"
-					],
-					[
-						"so",
-						"solid"
-					],
-					[
-						"backou",
-						"background-color"
-					],
-					[
-						"col",
-						"col-xs-12"
-					],
-					[
-						"backg",
-						"background-color"
-					],
-					[
-						"register",
-						"register_sidebar\tregister_sidebar All Options"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/E/Repositories/ife_task/stage_1/task_2/index_1.html",
-					"settings":
-					{
-						"buffer_size": 8867,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/Repositories/ife_task/stage_1/task_2/css.css",
-					"settings":
-					{
-						"buffer_size": 1679,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/chj/Downloads/header.html",
-					"settings":
-					{
-						"buffer_size": 1358,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 104.0,
-				"last_filter": "ssshell",
+				"height": 242.0,
+				"last_filter": "sshtml",
 				"selected_items":
 				[
-					[
-						"ssshell",
-						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
-						"ssmd",
-						"Set Syntax: Markdown"
-					],
 					[
 						"sshtml",
 						"Set Syntax: HTML"
 					],
 					[
-						"sstxt",
-						"Set Syntax: Plain Text"
+						"ssjs",
+						"Set Syntax: JavaScript"
 					],
 					[
 						"ip",
 						"Package Control: Install Package"
 					],
 					[
-						"lp",
-						"Package Control: List Packages"
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"ar",
+						"Package Control: Add Repository"
 					],
 					[
 						"rp",
 						"Package Control: Remove Package"
 					],
 					[
-						"ssjs",
-						"Set Syntax: JavaScript"
+						"lp",
+						"Package Control: List Packages"
+					],
+					[
+						"ssshell",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ssmd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"sstxt",
+						"Set Syntax: Plain Text"
 					],
 					[
 						"upgrad",
@@ -1726,10 +630,6 @@
 						"Package Control: Upgrade Package"
 					],
 					[
-						"ar",
-						"Package Control: Add Repository"
-					],
-					[
 						"rr",
 						"Package Control: Remove Repository"
 					],
@@ -1770,7 +670,7 @@
 			},
 			"console":
 			{
-				"height": 268.0,
+				"height": 72.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -1787,18 +687,78 @@
 			},
 			"file_history":
 			[
-				"/C/Program Files/Sublime Text 3/Data/Backup/20161107142922/mdpopups/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/cssrem.sublime-settings",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_9/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_9/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_10/css.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_12/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_12/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/js/mobile-util.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/cssrem/cssrem.sublime-settings",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_10/index.html",
+				"/C/Users/chj/Desktop/rem.html",
+				"/E/Repositories/Company/红洋坊时尚美容瘦身连锁机构.md",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_8/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_8/css.css",
+				"/C/Users/chj/Desktop/test.html",
+				"/C/Users/chj/Desktop/各机构宏脉系统远程登录地址.md",
+				"/C/Users/chj/Desktop/color-selector.html",
+				"/C/Users/chj/Desktop/color-selector_files/a75f2896b5058361e0b051e399980adc",
+				"/C/Users/chj/Desktop/color-selector_files/q.html",
+				"/C/Users/chj/Desktop/color-selector.htm",
+				"/C/Users/chj/Desktop/c.html",
+				"/C/Users/chj/Desktop/mht2html/translations/2052/mht2html.ini",
+				"/C/Users/chj/Desktop/mht2html/translations/1028/share.ini",
+				"/C/Users/chj/Desktop/mht2html/translations/1028/Mht2Html.ini",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_6/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/normalize.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_6/index.html",
+				"/E/Repositories/ife_task/README.md",
+				"/C/Users/chj/Desktop/tmall.md",
+				"/E/Repositories/ife_task/stage_1/task_7/css.css",
+				"/E/Repositories/ife_task/stage_1/task_7/index.html",
+				"/E/Repositories/ife_task/stage_1/task_7/normalize.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/E/Repositories/ife_task/stage_1/task_6/index.html",
+				"/E/Repositories/ife_task/stage_1/task_6/css.css",
+				"/C/Users/chj/Desktop/1.html",
+				"/E/Repositories/ife_task/stage_1/task_6/normalize.css",
+				"/E/Repositories/ife_task/stage_1/task_2/css.css",
+				"/E/Repositories/ife_task/stage_1/task_3/css_2.css",
+				"/E/Repositories/ife_task/stage_1/task_4/css_1.css",
+				"/E/Repositories/ife_task/stage_1/task_5/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_5/css.css",
+				"/E/Repositories/ife_task/stage_1/task_2/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_4/index_3.html",
+				"/E/Repositories/ife_task/stage_1/task_4/css_3.css",
+				"/E/Repositories/ife_task/stage_1/task_4/css_2.css",
+				"/E/Repositories/ife_task/stage_1/task_4/index_2.html",
+				"/E/Repositories/ife_task/stage_1/task_4/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_4/css.css",
+				"/E/Repositories/ife_task/stage_1/task_4/index.html",
+				"/E/Repositories/ife_task/stage_1/task_3/css_1.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/E/Repositories/ife_task/stage_1/task_3/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_3/index_2.html",
+				"/E/Repositories/ife_task/stage_1/task_3/index.html",
+				"/E/Repositories/ife_task/stage_1/task_3/css.css",
 				"/C/Users/chj/Downloads/header.html",
+				"/C/Program Files/Sublime Text 3/Data/Backup/20161107142922/mdpopups/README.md",
 				"/C/Users/chj/Downloads/footer.html",
 				"/C/Users/chj/Desktop/ApacheCN - 2016杭州·云栖大会 PDF 下载 - v1.1.2/ApacheCN - 2016杭州·云栖大会 - v1.1.2/readme.md.dump",
 				"/C/Users/chj/Desktop/ApacheCN - 2016杭州·云栖大会 PDF 下载 - v1.1.2/ApacheCN - 2016杭州·云栖大会 - v1.1.2/readme.md",
-				"/C/Users/chj/Desktop/各机构宏脉系统远程登录地址.md",
 				"/C/Users/chj/Documents/www.hongzhuangzx.org_nginx.log",
 				"/E/Repositories/ife_task/stage_1/task_1/task_2/css.css",
 				"/E/Repositories/ife_task/stage_1/task_1/task_2/index_1.html",
 				"/E/Repositories/ife_task/stage_1/task_1/task_2_1.html",
 				"/E/Repositories/ife_task/stage_1/task_1/task_1.html",
-				"/E/Repositories/ife_task/README.md",
 				"/E/Repositories/ife_task/stage_1/task_1/task_1.md",
 				"/E/Repositories/seo_chains/README.md",
 				"/E/Repositories/seo_chains/seo_chains.md",
@@ -1809,7 +769,6 @@
 				"/F/Nodejs/html/index.html",
 				"/F/Nodejs/html/css.css",
 				"/F/Nodejs/html/demo.html",
-				"/C/Users/chj/Desktop/tmall.md",
 				"/F/Nodejs/html/demo_1.html",
 				"/C/Program Files/Sublime Text 3/Data/Packages/User/bootstrap_snippet.sublime-snippet",
 				"/C/Users/chj/Desktop/bootstrap_snippet.sublime-snippet",
@@ -1820,7 +779,6 @@
 				"/E/Repositories/markdown/.git/config",
 				"/E/Repositories/seo_chains/.git/config",
 				"/E/Repositories/markdown/Markdown常用基本语法.md",
-				"/E/Repositories/Company/红洋坊时尚美容瘦身连锁机构.md",
 				"/E/Repositories/Company/红妆时尚美业连锁机构地址电话.md",
 				"/E/Repositories/Company/其他.md",
 				"/E/Practice/demo/triangle_demo/index.html",
@@ -1856,69 +814,11 @@
 				"/C/Users/chj/Desktop/demo.js",
 				"/C/Users/chj/Desktop/new.html",
 				"/C/Users/chj/Desktop/demo.css",
-				"/C/Users/chj/Desktop/demo.html",
-				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/angular_snippet.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/angularjs_snippet.sublime-snippet",
-				"/C/Users/chj/Downloads/editorconfig",
-				"/C/Program Files/Sublime Text 3/Data/README.md",
-				"/C/Users/chj/Downloads/11m.php",
-				"/C/Users/chj/Desktop/a.html",
-				"/C/Users/chj/Desktop/c.pug",
-				"/F/Nodejs/sftp-config.json",
-				"/C/Program Files/Sublime Text 3/Data/sftp/yanzhi",
-				"/F/Nodejs/html/demo.pug",
-				"/F/Nodejs/html/test.html",
-				"/F/Nodejs/html/demo.tpl",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/link_amimate.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/h5_snippet.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pagexx.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_meta.tags.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_keywords.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_index.key_desc.sublime-snippet",
-				"/E/Repositories/WordPress/LICENSE",
-				"/C/Program Files/Sublime Text 3/Data/.git/description",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_include.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/link_normalize.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/script_jquery.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_content.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_field.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_likearticle.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_arclist.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_desc.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_maketime.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_basehost.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_typeurl.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_typename.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_next.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pre.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_writer.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_source.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_body.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_pubdate.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_list.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_title.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_seotitle.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_type.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_position.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_flink.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Data/Packages/User/dede_webname.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package/Snippets/html (begin tag).sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package/Snippets/html.sublime-snippet",
-				"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/sidebar.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/single.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/category.php",
-				"/E/xampp/htdocs/wp-content/themes/www.xiaochao.me/index.php",
-				"/C/Users/chj/Downloads/syntaxhighlighter_3.0.83/syntaxhighlighter_3.0.83/styles/shCore.css",
-				"/E/Repositories/WordPress/只在首页显示友情链接.php",
-				"/E/Repositories/WordPress/只在首页显示友情链接.css",
-				"/E/Repositories/WordPress/demo/footer.php",
-				"/E/Repositories/WordPress/demo/index.php"
+				"/C/Users/chj/Desktop/demo.html"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
@@ -1933,6 +833,71 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"menu",
+					"fenlam",
+					"309",
+					"41px",
+					"41",
+					"#dddfe1",
+					"dddfe1",
+					"left",
+					"model",
+					"model-one",
+					"other",
+					"{\n",
+					"192.168.0.5",
+					"10px",
+					"15px",
+					"768",
+					"option",
+					"color: #fff;",
+					"option",
+					"box",
+					"在计算机后面输入IP和端口号",
+					"在计算机后面输入IP和端口号，比如想要连接悦的主机",
+					"hr",
+					"triangle",
+					".seven .card .more",
+					"hr",
+					"<hr",
+					"<hr class>",
+					"<hr c>",
+					"hr",
+					"<hr",
+					"<hr class=",
+					"hr",
+					"323333",
+					"ad",
+					"hr",
+					"hr ",
+					"class=\"pic",
+					"class=\"red",
+					"1280",
+					"box-sizing:",
+					"box-sizing: border-box",
+					"wenzi",
+					"heig",
+					"color:",
+					"color:#fff",
+					"min-h",
+					"background: url",
+					"position",
+					"microsoft yahei;",
+					".three .youbian .down",
+					"red",
+					".wrap .one .about",
+					"æ¥·ä½“",
+					"å¾®è½¯é›…é»‘",
+					"é»‘ä½“",
+					".three .zuobian .biaoti  h3:last-child",
+					"two",
+					"article",
+					"small",
+					"mian",
+					"</div>",
+					"<div",
+					"height",
+					"max",
 					"0.4",
 					"Wget/1.11.4 Red Hat modified",
 					"Red Hat modified",
@@ -1995,72 +960,7 @@
 					"../images",
 					"logo",
 					"temp",
-					"templets",
-					")",
-					"(",
-					",",
-					";",
-					"’",
-					"‘",
-					"tabBar",
-					"getBanner",
-					"detmp1",
-					"_10_MakeAllOK",
-					"/images",
-					"brush:",
-					"ccstock",
-					"blog.ccstock.cn",
-					")",
-					"(",
-					";",
-					"’",
-					"‘",
-					", ",
-					";",
-					"”",
-					"“",
-					"’",
-					"‘",
-					"w33 z",
-					"css",
-					"nav",
-					"slug",
-					"sllug",
-					"clean",
-					"htmlmin",
-					"cssmin",
-					"htmlmin",
-					"uglify",
-					"cssmin",
-					"imagemin",
-					"links-wrap",
-					"link",
-					"concat",
-					"conntact",
-					"cssmin",
-					"concat",
-					"cssmin",
-					"concat",
-					"|",
-					"html",
-					"fetch",
-					"replace(/px[^;{}]?}/g,'px;\\n}')",
-					"return str.replace(/px[^;{}]?}/g,'px;\\n}');",
-					"return str.replace(/px[^;{}]?}/g,'px;\\n}');\n \t\t}",
-					"mincss",
-					"#xiangSlide .num b",
-					"#xiangSlide",
-					".footer",
-					"html",
-					"htmlmin",
-					"imagemin",
-					"cssmin",
-					"single_file",
-					"imagemin",
-					"cssmin",
-					"url",
-					"length",
-					"uri"
+					"templets"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2068,6 +968,1144 @@
 				"regex": false,
 				"replace_history":
 				[
+					"fenlan",
+					"Microsoft Yahei;",
+					"SimSun",
+					"microsoft yahei",
+					"1",
+					"css/",
+					"js/",
+					"/js/",
+					"/css",
+					"http://demo.themeum.com/html/triangle/1.1/css/",
+					"http://demo.themeum.com/html/triangle/1.1/images/",
+					"http://demo.themeum.com/html/triangle/1.1/js/",
+					"http://demo.themeum.com/html/triangle/js/",
+					"http://demo.themeum.com/html/triangle/images/",
+					"3.3.7",
+					"src",
+					"3.3.7",
+					"http://avatar.csdn.net/D/5/C/1_luxiaoleics.jpg",
+					"https://s3-us-west-2.amazonaws.com/s.cdpn.io/877458/profile/profile-80_1.jpg",
+					"mmexport1459773908859",
+					"span",
+					"<span class=\"glyphicon glyhicon-asterisk\">",
+					"\"",
+					";",
+					"\"",
+					"class='pagination'",
+					"class='pages'",
+					".crumbs",
+					"images",
+					")",
+					"(",
+					",",
+					";",
+					"'",
+					"http://m.yueyimei.com/images",
+					"http://www.yueyimei.com/images",
+					"prettyprint lang-",
+					")",
+					"(",
+					";",
+					"'",
+					",",
+					";",
+					"\"",
+					"'",
+					"\",\"",
+					"images",
+					"src=\"../images",
+					"../css",
+					"../css/",
+					"css"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 113.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 47.0
+			},
+			"output.sftp":
+			{
+				"height": 142.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"red",
+						"E:\\Repositories\\ife_task\\stage_1\\task_6\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 178.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1116.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"pda",
+						"padding-left"
+					],
+					[
+						"c",
+						"column"
+					],
+					[
+						"fle",
+						"flex-direction"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"flex-s",
+						"flex-start"
+					],
+					[
+						"marin",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"be",
+						"bear.jpg\tw:80 h:118"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"glyphicon-ch",
+						"glyphicon-chevron-left \tBootstrap 3 Class"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"fnt",
+						"font"
+					],
+					[
+						"tet",
+						"text-align"
+					],
+					[
+						"bea",
+						"bear_head.jpg\tw:158 h:148"
+					],
+					[
+						"sapce",
+						"space-around"
+					],
+					[
+						"fe",
+						"fellow.jpg\tw:128 h:100"
+					],
+					[
+						"spce",
+						"space-around"
+					],
+					[
+						"t",
+						"transform"
+					],
+					[
+						"backgo",
+						"background-color"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"clo",
+						"color"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"chev",
+						"glyphicon-chevron-left \tBootstrap 3 Class"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"ce",
+						"cellpadding\tAttr"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"word",
+						"word-spacing"
+					],
+					[
+						"fa-ch",
+						"fa-chevron-left"
+					],
+					[
+						"space",
+						"space-around"
+					],
+					[
+						"mag",
+						"margin-left"
+					],
+					[
+						"cell",
+						"cellspacing\tAttr"
+					],
+					[
+						"borde",
+						"border-left"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"flexs",
+						"flex-start"
+					],
+					[
+						"labl",
+						"label\tTag"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inln",
+						"inline-block"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"border-top-",
+						"border-top-left-radius"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"alig",
+						"align-items"
+					],
+					[
+						"model",
+						"model-three"
+					],
+					[
+						"magi",
+						"margin-bottom"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"fles",
+						"flex-start"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"la",
+						"label\tTag"
+					],
+					[
+						"label",
+						"label\t<label>"
+					],
+					[
+						"aci",
+						"active"
+					],
+					[
+						"b",
+						"border"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"inputt",
+						"inputt\tinput - text"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"meta",
+						"meta\tTag"
+					],
+					[
+						"meat",
+						"meta\tTag"
+					],
+					[
+						"input",
+						"inputh\tinput - hidden"
+					],
+					[
+						"fl",
+						"flex"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"bakc",
+						"background-size"
+					],
+					[
+						"se",
+						"section\t<section>"
+					],
+					[
+						"tetx",
+						"text-align"
+					],
+					[
+						"left",
+						"left"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"spa",
+						"space-between"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"big",
+						"big-logo.png\tw:100 h:100"
+					],
+					[
+						"imga",
+						"images/"
+					],
+					[
+						"bos",
+						"box-sizing"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"letf",
+						"left"
+					],
+					[
+						"it",
+						"align-items"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"background-c",
+						"background-clip"
+					],
+					[
+						"app",
+						"-webkit-appearance"
+					],
+					[
+						"fie",
+						"fixed"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"flo",
+						"flower.jpg\tw:42 h:42"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"co",
+						"cover"
+					],
+					[
+						"image",
+						"images/"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"head",
+						"header\t<header>"
+					],
+					[
+						"h5",
+						"h5\th5_snippet"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"bo",
+						"bold"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"bott",
+						"bottom"
+					],
+					[
+						"scr",
+						"script\t<script>"
+					],
+					[
+						"cha",
+						"charset\tAttr"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"rao",
+						"rotate()"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"let",
+						"left"
+					],
+					[
+						"mari",
+						"margin-right"
+					],
+					[
+						"wih",
+						"width"
+					],
+					[
+						"bao",
+						"background-color"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"bs3",
+						"bs3-table\tbs3-table"
+					],
+					[
+						"th",
+						"thead"
+					],
+					[
+						"small",
+						"small \tBootstrap 3 Class"
+					],
+					[
+						"div",
+						"div\t<div>"
+					],
+					[
+						"r",
+						"right \tBootstrap 3 Class"
+					],
+					[
+						"lable",
+						"label\t<label>"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/index.html",
+					"settings":
+					{
+						"buffer_size": 4842,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/index.html",
+					"settings":
+					{
+						"buffer_size": 5382,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/css.css",
+					"settings":
+					{
+						"buffer_size": 385,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/MobileWeb适配总结.md",
+					"settings":
+					{
+						"buffer_size": 910,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 219.0,
+				"last_filter": "ssjs",
+				"selected_items":
+				[
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssmd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"ar",
+						"Package Control: Add Repository"
+					],
+					[
+						"rp",
+						"Package Control: Remove Package"
+					],
+					[
+						"lp",
+						"Package Control: List Packages"
+					],
+					[
+						"ssshell",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"sstxt",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"upgrad",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ssrm",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"ss",
+						"Set Syntax: Pug"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"Snippet: html",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"Snippet: h5",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"Snippet: boo",
+						"Snippet: bootstrap_snippet"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"rr",
+						"Package Control: Remove Repository"
+					],
+					[
+						"LiveReload: Enable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"addr",
+						"Package Control: Add Repository"
+					],
+					[
+						"ssph",
+						"Set Syntax: PHP"
+					],
+					[
+						"ssba",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ssp",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ssMD",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssjo",
+						"Set Syntax: JSON"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 72.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/cssrem.sublime-settings",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/js/mobile-util.js",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/MobileWeb适配总结.md",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/js/rem.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_9/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_9/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_10/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_12/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_12/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_11/js/mobile-util.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/cssrem/cssrem.sublime-settings",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_10/index.html",
+				"/C/Users/chj/Desktop/rem.html",
+				"/E/Repositories/Company/红洋坊时尚美容瘦身连锁机构.md",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_8/index.html",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_8/css.css",
+				"/C/Users/chj/Desktop/test.html",
+				"/C/Users/chj/Desktop/各机构宏脉系统远程登录地址.md",
+				"/C/Users/chj/Desktop/color-selector.html",
+				"/C/Users/chj/Desktop/color-selector_files/a75f2896b5058361e0b051e399980adc",
+				"/C/Users/chj/Desktop/color-selector_files/q.html",
+				"/C/Users/chj/Desktop/color-selector.htm",
+				"/C/Users/chj/Desktop/c.html",
+				"/C/Users/chj/Desktop/mht2html/translations/2052/mht2html.ini",
+				"/C/Users/chj/Desktop/mht2html/translations/1028/share.ini",
+				"/C/Users/chj/Desktop/mht2html/translations/1028/Mht2Html.ini",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_6/css.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_7/normalize.css",
+				"/E/Repositories/ife_task/2016spring/stage_1/task_6/index.html",
+				"/E/Repositories/ife_task/README.md",
+				"/C/Users/chj/Desktop/tmall.md",
+				"/E/Repositories/ife_task/stage_1/task_7/css.css",
+				"/E/Repositories/ife_task/stage_1/task_7/index.html",
+				"/E/Repositories/ife_task/stage_1/task_7/normalize.css",
+				"/E/Repositories/ife_task/stage_1/task_6/index.html",
+				"/E/Repositories/ife_task/stage_1/task_6/css.css",
+				"/C/Users/chj/Desktop/1.html",
+				"/E/Repositories/ife_task/stage_1/task_6/normalize.css",
+				"/E/Repositories/ife_task/stage_1/task_2/css.css",
+				"/E/Repositories/ife_task/stage_1/task_3/css_2.css",
+				"/E/Repositories/ife_task/stage_1/task_4/css_1.css",
+				"/E/Repositories/ife_task/stage_1/task_5/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_5/css.css",
+				"/E/Repositories/ife_task/stage_1/task_2/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_4/index_3.html",
+				"/E/Repositories/ife_task/stage_1/task_4/css_3.css",
+				"/E/Repositories/ife_task/stage_1/task_4/css_2.css",
+				"/E/Repositories/ife_task/stage_1/task_4/index_2.html",
+				"/E/Repositories/ife_task/stage_1/task_4/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_4/css.css",
+				"/E/Repositories/ife_task/stage_1/task_4/index.html",
+				"/E/Repositories/ife_task/stage_1/task_3/css_1.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/E/Repositories/ife_task/stage_1/task_3/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_3/index_2.html",
+				"/E/Repositories/ife_task/stage_1/task_3/index.html",
+				"/E/Repositories/ife_task/stage_1/task_3/css.css",
+				"/C/Users/chj/Downloads/header.html",
+				"/C/Program Files/Sublime Text 3/Data/Backup/20161107142922/mdpopups/README.md",
+				"/C/Users/chj/Downloads/footer.html",
+				"/C/Users/chj/Desktop/ApacheCN - 2016杭州·云栖大会 PDF 下载 - v1.1.2/ApacheCN - 2016杭州·云栖大会 - v1.1.2/readme.md.dump",
+				"/C/Users/chj/Desktop/ApacheCN - 2016杭州·云栖大会 PDF 下载 - v1.1.2/ApacheCN - 2016杭州·云栖大会 - v1.1.2/readme.md",
+				"/C/Users/chj/Documents/www.hongzhuangzx.org_nginx.log",
+				"/E/Repositories/ife_task/stage_1/task_1/task_2/css.css",
+				"/E/Repositories/ife_task/stage_1/task_1/task_2/index_1.html",
+				"/E/Repositories/ife_task/stage_1/task_1/task_2_1.html",
+				"/E/Repositories/ife_task/stage_1/task_1/task_1.html",
+				"/E/Repositories/ife_task/stage_1/task_1/task_1.md",
+				"/E/Repositories/seo_chains/README.md",
+				"/E/Repositories/seo_chains/seo_chains.md",
+				"/E/Practice/demo/www.bootply.com/index.html",
+				"/E/Practice/demo/www.bootply.com/css.css",
+				"/F/Nodejs/Gruntfile.js",
+				"/F/Nodejs/opt_html/tidy.css",
+				"/F/Nodejs/html/index.html",
+				"/F/Nodejs/html/css.css",
+				"/F/Nodejs/html/demo.html",
+				"/F/Nodejs/html/demo_1.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bootstrap_snippet.sublime-snippet",
+				"/C/Users/chj/Desktop/bootstrap_snippet.sublime-snippet",
+				"/E/Repositories/Company/README.md",
+				"/E/Repositories/Company/.git/config",
+				"/C/Users/chj/Desktop/5.png",
+				"/E/Repositories/markdown/README.md",
+				"/E/Repositories/markdown/.git/config",
+				"/E/Repositories/seo_chains/.git/config",
+				"/E/Repositories/markdown/Markdown常用基本语法.md",
+				"/E/Repositories/Company/红妆时尚美业连锁机构地址电话.md",
+				"/E/Repositories/Company/其他.md",
+				"/E/Practice/demo/triangle_demo/index.html",
+				"/E/Practice/demo/triangle/index.html",
+				"/E/Practice/demo/triangle/css/responsive.css.bak",
+				"/E/Practice/demo/triangle/css/main.css",
+				"/E/Practice/demo/triangle/css/58dea4fdc32f4f148e3b01c653ce54f4.css",
+				"/C/Users/chj/Downloads/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js",
+				"/F/Nodejs/package.json",
+				"/E/Practice/demo/triangle1.1/index.html",
+				"/E/Repositories/Company/readme.md",
+				"/F/Nodejs/bootstrap/index.html",
+				"/C/Users/chj/Desktop/Markdown常用基本语法.md",
+				"/C/Users/chj/Documents/index.html",
+				"/C/Users/chj/Desktop/ceshi.html",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/usage.md",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/TOC.md",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/misc.md",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/js.md",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/html.md",
+				"/C/Users/chj/Downloads/html5-boilerplate_v5.3.0/doc/extend.md",
+				"/F/Nodejs/demo.html",
+				"/F/Nodejs/demo.css",
+				"/C/Users/chj/Downloads/仿站小工具/www.flqin.com/index.html",
+				"/C/Users/chj/Desktop/形象画册/ceshi.html",
+				"/C/Users/chj/Desktop/miptihuan/templets/mip/aliyun.html",
+				"/C/Users/chj/Desktop/miptihuan/templets/mip/list_article.htm",
+				"/C/Users/chj/Desktop/运营事物集团总部对接人清单.html",
+				"/C/Users/chj/Desktop/contact.html",
+				"/C/Users/chj/Desktop/运营事物集团总部对接人清单 (1).htm.dump",
+				"/C/Users/chj/Desktop/运营事物集团总部对接人清单 (1).htm"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"94.375%",
+					"menu",
+					"fenlam",
+					"309",
+					"41px",
+					"41",
+					"#dddfe1",
+					"dddfe1",
+					"left",
+					"model",
+					"model-one",
+					"other",
+					"{\n",
+					"192.168.0.5",
+					"10px",
+					"15px",
+					"768",
+					"option",
+					"color: #fff;",
+					"option",
+					"box",
+					"在计算机后面输入IP和端口号",
+					"在计算机后面输入IP和端口号，比如想要连接悦的主机",
+					"hr",
+					"triangle",
+					".seven .card .more",
+					"hr",
+					"<hr",
+					"<hr class>",
+					"<hr c>",
+					"hr",
+					"<hr",
+					"<hr class=",
+					"hr",
+					"323333",
+					"ad",
+					"hr",
+					"hr ",
+					"class=\"pic",
+					"class=\"red",
+					"1280",
+					"box-sizing:",
+					"box-sizing: border-box",
+					"wenzi",
+					"heig",
+					"color:",
+					"color:#fff",
+					"min-h",
+					"background: url",
+					"position",
+					"microsoft yahei;",
+					".three .youbian .down",
+					"red",
+					".wrap .one .about",
+					"æ¥·ä½“",
+					"å¾®è½¯é›…é»‘",
+					"é»‘ä½“",
+					".three .zuobian .biaoti  h3:last-child",
+					"two",
+					"article",
+					"small",
+					"mian",
+					"</div>",
+					"<div",
+					"height",
+					"max",
+					"0.4",
+					"Wget/1.11.4 Red Hat modified",
+					"Red Hat modified",
+					"ads",
+					"spider",
+					"Baiduspider/3.0",
+					"Baiduspider/2.0",
+					"一点资讯",
+					"一点资讯平台",
+					"50",
+					"uncss",
+					"_",
+					"}\t",
+					"row",
+					"}\n",
+					"-->\n",
+					"/css/",
+					"/js/",
+					"http://demo.themeum.com/html/triangle/js/",
+					"http://demo.themeum.com/html/triangle/css",
+					"header",
+					"css/",
+					"images/",
+					"js/",
+					"images/",
+					"3.3.0",
+					"data-src",
+					"study",
+					"3.3.0",
+					"value",
+					"dedeseo_http_send",
+					"https://s3-us-west-2.amazonaws.com/s.cdpn.io/877458/profile/profile-80_1.jpg",
+					"mmexport1459773908859.jpg",
+					"tumblr",
+					"row",
+					"sec",
+					"spab",
+					"pug",
+					"html_template",
+					" <i class=\"fa fa-fire fa-3x\"></i>",
+					"imagemin",
+					"“",
+					"”",
+					"“",
+					";",
+					"”",
+					"“",
+					"class='pages'",
+					"class='pagination'",
+					"pagination",
+					"#crumbs",
+					"crumbs",
+					"!",
+					"change_redhat_routes",
+					"change_redhat_routes() ",
+					"sidebarBox",
+					"wp_title",
+					"admin",
+					"m",
+					"../images",
+					"logo",
+					"temp"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"93.75%",
+					"fenlan",
+					"Microsoft Yahei;",
+					"SimSun",
+					"microsoft yahei",
 					"1",
 					"css/",
 					"js/",
@@ -2125,29 +2163,28 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Repositories/ife_task/stage_1/task_2/index_1.html",
+							"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8867,
+								"buffer_size": 4842,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7935,
-										7935
+										758,
+										638
 									]
 								],
 								"settings":
 								{
-									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -2155,8 +2192,8 @@
 										{
 											"1":
 											[
-												7930,
-												7934
+												601,
+												605
 											]
 										},
 										"icon":
@@ -2171,8 +2208,8 @@
 										{
 											"1":
 											[
-												7920,
-												7924
+												601,
+												605
 											]
 										},
 										"unmatched":
@@ -2181,209 +2218,88 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_default_content"
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 4422.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/Repositories/ife_task/stage_1/task_2/css.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1679,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1418,
-										1418
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1458,
-												1459
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1397,
-												1398
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
-									],
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/CSS3/CSS3.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 2236.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/C/Users/chj/Downloads/header.html",
+							"buffer": 1,
+							"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1358,
+								"buffer_size": 5382,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										857,
-										857
+										57,
+										57
 									]
 								],
 								"settings":
@@ -2395,15 +2311,15 @@
 										{
 											"1":
 											[
-												856,
-												857
+												55,
+												59
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"Packages/BracketHighlighter/icons/tag.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -2411,8 +2327,8 @@
 										{
 											"1":
 											[
-												787,
-												788
+												55,
+												59
 											]
 										},
 										"unmatched":
@@ -2421,69 +2337,379 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_default_content"
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_1/css.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 385,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										129,
+										129
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/Repositories/ife_task/2016spring/stage_1/task_11/method_2/MobileWeb适配总结.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 910,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										89,
+										19
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -2537,11 +2763,11 @@
 				"height": 142.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1161,-210,258,1722",
+			"position": "0,0,1,-1,-1,-1,-1,1096,287,171,1939",
 			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 74.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2550,6 +2776,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"red",
+						"E:\\Repositories\\ife_task\\stage_1\\task_6\\index.html"
+					]
 				],
 				"width": 0.0
 			},
@@ -2584,7 +2814,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 32,
+			"window_id": 39,
 			"workspace_name": ""
 		}
 	],

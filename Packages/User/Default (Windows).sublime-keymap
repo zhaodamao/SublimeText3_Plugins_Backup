@@ -1,3 +1,6 @@
 [
-	{ "keys": ["ctrl+alt+p"], "command": "autoprefixer" },
+    {
+        "keys": ["ctrl+alt+p"],
+        "command": "autoprefixer"
+    }
 ]
