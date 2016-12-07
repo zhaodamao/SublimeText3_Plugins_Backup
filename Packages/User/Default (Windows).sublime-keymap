@@ -1,6 +1,14 @@
 [
-    {
+    {     
         "keys": ["ctrl+alt+p"],
         "command": "autoprefixer"
+    },
+ {
+     "keys": ["ctrl+alt+t"], 
+      "command": "trimmer" 
+    },
+        {
+        "keys": ["ctrl+alt+j"], "command": "js_format",
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
     }
 ]

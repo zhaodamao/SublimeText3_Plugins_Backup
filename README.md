@@ -103,6 +103,9 @@ dedecms常用标签snippets定义目录在```Package/User```
 46. Angularjs
 47. Angularjs Snippets
 48. SublimeLinter-contrib-pug-lint
+49. cssrem
+50. Image2Base64
+51. minify
 
 ###增加angularjs模板标签
 ```angularjs``` **angularjs demo页面**
